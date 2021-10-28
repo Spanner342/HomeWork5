@@ -173,7 +173,7 @@ recursion(2343216787643245679);
 // последовательно его элементы, используя рекурсию и не используя цикл.
 
 function arrRecursion (a) {
-    console.log(a[0])
+    console.log(a[0]);
 
     a.splice(0, 1);
     
